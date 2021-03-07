@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://cauuka.github.io/rsschool-cv/cv
