@@ -4,10 +4,19 @@
 * ***E-Mail:*** *rerbi3@mail.ru*
 * ***GitHub:*** *https://github.com/Cauuka*
 ## About Me:
-I finished BNTU at 2019 as civil engineer.
+I wanna go to Burning Man.
 ## Skills:
 * HTML
 * CSS
-
+## Code:
+function sum(a, b) {
+  return a + b;
+}
+## Experience
+Dont have any experience
+## Education
+* **University:** Belarusian National Technical University
+## English
+***A2***
 
 
