@@ -4,5 +4,8 @@
 * ***E-Mail:*** *rerbi3@mail.ru*
 * ***GitHub:*** *https://github.com/Cauuka*
 ## About Me:
+I finished BNTU at 2019 as civil engineer.
+## Skills:
+1. 
 
 
