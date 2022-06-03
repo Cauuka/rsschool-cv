@@ -6,6 +6,8 @@
 ## About Me:
 I finished BNTU at 2019 as civil engineer.
 ## Skills:
-1. 
+* HTML
+* CSS
+
 
 
