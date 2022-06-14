@@ -1,1 +1,124 @@
-body{background-color: blueviolet;}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    
+
+    min-height: 100vh;
+    background: #27282c;
+    
+}
+.header{
+    max-height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ul_items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-width: 100vh;
+    gap: 60px;
+    
+
+}
+.list_items{
+    align-items: center;
+}
+.a_info{
+    text-decoration: none;
+    background: #444;
+    color:#fff;
+    font-size: 1em;
+    letter-spacing: 0.2em;
+    padding: 10px 20px;
+    transition: 0.5s;
+}
+.a_info:hover{
+    letter-spacing: 0.4em;
+    background: var(--clr);
+    color: var(--clr);
+    box-shadow: var(--clr);
+}
+.a_info::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background:#27282c ;
+}
+a span{
+    position: relative;
+    z-index: 1;
+}
+.main{
+    margin-top: 50px;
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.h{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #1e9bff;
+}
+.photo{
+    position: relative;
+    max-width: 600px;
+    max-height: 700px;
+}
+
+.telephone{
+    text-decoration: none;
+    color: #fff;
+}
+.section2{
+    margin-left: 50px;
+    position: relative;
+    margin-top: -230px;
+    margin-right: 100px;
+}
+.h1_class{ text-transform: uppercase;
+    font-size: 30px;
+    color: #1e9bff;
+
+}
+.h2_class{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: #1e9bff;
+}
+.footer{
+    
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #444;
+}
+.footer_git{
+    width: 50px;
+    height:50px ;
+    align-items: center;
+    margin-left: 500px;
+}
+.footer_rss{
+    width: 120px;
+    height:120px ;
+    align-items: center;
+    margin-right: 500px;
+}
